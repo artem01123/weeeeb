@@ -520,3 +520,10 @@ footer {
 		font-size: 15px;
 	}
 }
+
+.mobile-btn{
+	display: block;
+}
+.btn-hide{
+	display: none;
+}
